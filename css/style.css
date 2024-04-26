@@ -1,0 +1,75 @@
+@font-face {
+    font-family: myFont ;
+    src: url(OFL.txt);
+}
+
+header{
+    background-color: #0E3411;
+}
+
+.logo{
+    height: 20vh;
+}
+
+.titulo{
+    color: white;
+    font-size: 40px;
+    font-family: myFont;
+}
+
+.mainTittle, .locationTitle, .placesTitle, .h2Title{
+    font-family: Myfont;
+    font-size: 30px;
+}
+
+.mainText, .description, .location, li, h2, h3{
+    text-align: justify;
+    font-size: 20px;
+    font-family: myFont;
+    font-weight: 500;
+}
+
+.imgMapa{
+    width: 45vw;
+    border-radius: 3%;
+    box-shadow: 4px 4px 4px rgb(112, 112, 112);
+}
+
+a, .li, ol{
+    line-height: 38px;
+    text-decoration: none;
+    color: black;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+footer{
+    background-color:#0E3411;
+    height: 35vh;
+}
+
+.footer{
+    color: white;
+    font-size: 15px;
+    font-family: Myfont;
+}
+
+.imgSitio, .imgSitio2, .imgIgrejaCatolica, .imgTaiheij{
+    width: 40vw;
+}
+
+.imgIgreja, .imgDelicias, .imgCascata, .imgCascataVelha{
+    width: 37vw;
+}
+
+.imgCascata2, .imgLancheria, .imgLancheria2, .imgTaiheij2, .imgPortico{
+    width: 45vw;
+}
+
+.imgCentroDeEsportes, .imgEspacoBerz2, .imgEspacoBerz, .imgChale, .imgChale2, .imgPerau{
+    width: 47vw;
+}
+
+
